@@ -13,19 +13,19 @@
             <mxPoint x="740" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ca4Y1HuICi13Lwhwx1Ua-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Ca4Y1HuICi13Lwhwx1Ua-3" value="Inyeccion PLC Beckhoff" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="140" y="510" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ca4Y1HuICi13Lwhwx1Ua-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Ca4Y1HuICi13Lwhwx1Ua-4" value="Textil PLC Boch Rexroth" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="260" y="510" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ca4Y1HuICi13Lwhwx1Ua-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Ca4Y1HuICi13Lwhwx1Ua-5" value="Empaquetamiento PLC Siemens" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="510" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ca4Y1HuICi13Lwhwx1Ua-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Ca4Y1HuICi13Lwhwx1Ua-6" value="Logistica PLC Allen-Bradley" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="500" y="510" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ca4Y1HuICi13Lwhwx1Ua-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Ca4Y1HuICi13Lwhwx1Ua-7" value="Emsambaldora PLC Omron" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="620" y="510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ca4Y1HuICi13Lwhwx1Ua-8" value="Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
